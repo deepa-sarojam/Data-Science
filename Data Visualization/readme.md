@@ -2,5 +2,4 @@ Exploratory Data Analysis(EDA) on Police Violence in the United States using Plo
 
 Dataset: https://www.kaggle.com/jpmiller/police-violence-in-the-us 
 
-Medium: https://medium.com/@deepa-sarojam/36b552e9ab27
 
