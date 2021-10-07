@@ -33,6 +33,7 @@ Source: https://www.kaggle.com/c/avito-demand-prediction
 - test.csv - Test data. Same schema as the train data, minus deal_probability.
 
 **Evaluation Criteria**
+
 The regression model should be evaulated for Root Mean Squared Error 𝑅𝑀𝑆𝐸.
 
 RMSE is defined as:
