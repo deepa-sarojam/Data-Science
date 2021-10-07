@@ -7,9 +7,9 @@ Avito, Russia’s largest classified advertisements website is challenging to pr
 
 Source: https://www.kaggle.com/c/avito-demand-prediction
 
-**Data Description :
+**Data Description :**
 
-**File and column descriptions
+**File and column descriptions**
 
 - train.csv - Train data.
 - item_id - Ad id.
@@ -32,13 +32,12 @@ Source: https://www.kaggle.com/c/avito-demand-prediction
 - deal_probability - The target variable. This is the likelihood that an ad - actually sold something. It's not possible to verify every transaction with certainty, so this column's value can be any float from zero to one.
 - test.csv - Test data. Same schema as the train data, minus deal_probability.
 
-**Evaluation Criteria
-
-**The regression model should be evaulated for Root Mean Squared Error 𝑅𝑀𝑆𝐸.
+**Evaluation Criteria**
+The regression model should be evaulated for Root Mean Squared Error 𝑅𝑀𝑆𝐸.
 
 RMSE is defined as:
 
-                    $$\ {RMSE} = \sqrt{\frac{1}{n} \sum_{i=1}^{n} 𝑦𝑖−𝑦̂ 𝑖^2}$$
+                                ![](https://imgur.com/ZsHq13D.png)
 
 
 where y hat is the predicted value and y is the original value.
