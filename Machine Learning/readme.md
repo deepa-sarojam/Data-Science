@@ -1,5 +1,6 @@
 
 **Introduction**
+
 When selling used goods online, a combination of tiny, nuanced details in a product description can make a big difference in drumming up interest.
 
 Avito, Russia’s largest classified advertisements website is challenging to predict demand for an online advertisement based on its full description (title, description, images, etc.), its context (geographically where it was posted, similar ads already posted) and historical demand for similar ads in similar contexts. With this information, Avito can inform sellers on how to best optimize their listing and provide some indication of how much interest they should realistically expect to receive.
@@ -7,7 +8,9 @@ Avito, Russia’s largest classified advertisements website is challenging to pr
 Source: https://www.kaggle.com/c/avito-demand-prediction
 
 **Data Description :
+
 **File and column descriptions
+
 train.csv - Train data.
 item_id - Ad id.
 user_id - User id.
@@ -39,6 +42,7 @@ RMSE is defined as:
 where y hat is the predicted value and y is the original value.
 
 **Summary**
+
 In this notebook we will explore Supervised Machine Learning methods. Regression models such as linear regression, Ridge, ElasticNet, Lasso, decision tree and ensemble models such as RandomForest, XGBoost, LightGBM will trained to predict weekly sales using Scikit Learn, LightGBM and XGBoost. We will use Pandas, Numpy, Matplotlib, Seaborn and Plotly to perform exploratory data analysis and gather insights for machine learning. We will do the following
 
 - Install and Import libraries
