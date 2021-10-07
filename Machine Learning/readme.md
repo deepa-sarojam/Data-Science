@@ -41,8 +41,6 @@ RMSE is defined as:
 
 
 
-where y hat is the predicted value and y is the original value.
-
 **Summary**
 
 In this notebook we will explore Supervised Machine Learning methods. Regression models such as linear regression, Ridge, ElasticNet, Lasso, decision tree and ensemble models such as RandomForest, XGBoost, LightGBM will trained to predict weekly sales using Scikit Learn, LightGBM and XGBoost. We will use Pandas, Numpy, Matplotlib, Seaborn and Plotly to perform exploratory data analysis and gather insights for machine learning. We will do the following
