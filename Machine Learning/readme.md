@@ -37,7 +37,7 @@ The regression model should be evaulated for Root Mean Squared Error 𝑅𝑀�
 
 RMSE is defined as:
 
-                                ![](https://imgur.com/ZsHq13D.png)
+                                ![rmse](https://imgur.com/ZsHq13D.png)
 
 
 where y hat is the predicted value and y is the original value.
