@@ -5,7 +5,7 @@ Plotted graphs/visualizations using Seaborn, Plotly, Matplotlib, and Folium to i
 
 Proposed substantial insights on police violence across the US using visualizations. 
 
-[Project Link](https://jovian.ai/deepa-sarojam/web-scraping-project)
+[Project Link](https://jovian.ai/deepa-sarojam/police-killing-eda-project)
 
 Dataset: https://www.kaggle.com/jpmiller/police-violence-in-the-us 
 
