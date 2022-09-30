@@ -10,12 +10,12 @@ Python
 
 ## Appendix
 
-- Web Scraping on TMDB Movies Website with Python 
-- Web Scraping YouTube Trending videos using Selenium
-- Exploratory Data Analysis & Visualization of Police Violence in the United States
-- Exploratory Data Analysis (EDA) on LinkedIn Connections 
-- Machine Learning on Online Ad Demand Prediction 
-- Data Visualization of Divvy Bikes 
+- [Web Scraping on TMDB Movies Website with Python](https://github.com/deepa-sarojam/Data-Science/tree/main/Web%20Scraping) 
+- [Web Scraping YouTube Trending videos using Selenium](https://github.com/deepa-sarojam/Data-Science/tree/main/Web%20Scraping%20-%20Selenium)
+- [Exploratory Data Analysis & Visualization of Police Violence in the United States](https://github.com/deepa-sarojam/Data-Science/tree/main/Data%20Visualization)
+- [Exploratory Data Analysis (EDA) on LinkedIn Connections](https://jovian.ai/deepa-sarojam/linkedin-data-visualization)  
+- [Machine Learning on Online Ad Demand Prediction](https://github.com/deepa-sarojam/Data-Science/tree/main/Machine%20Learning) 
+- [Data Visualization of Divvy Bikes](https://github.com/deepa-sarojam/Data-Science/tree/main/Divvy%20Bikes) 
 
 
 
