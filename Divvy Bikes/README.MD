@@ -18,5 +18,5 @@ Projects includes
 4. Conducting Advanced Data Analysis 
 5. Creating Client Ready Data Visualization 
 6. Presenting Information with Conviction 
-7. Building and Creating Client Ready and Effective Dashboards 
+7. Building and Creating Client Ready and Effective Dashboards and Data StoryTelling 
 
